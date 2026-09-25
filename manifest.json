@@ -1,21 +1,43 @@
 {
-  "schema": 1,
+  "schema": 2,
   "product": "iCanPro",
   "channel": "stable",
-  "application": {
-    "version": "2.2.111",
-    "fileName": "iCanPro-v2.2.117-setup.exe",
-    "url": "files/iCanPro-v2.2.117-setup.exe",
-    "sha256": "773540d6e358a0113cecf9c7a87cdb6731c27256f39972f11ca4effc51062230",
-    "releaseNotes": "Cập nhật ngày: 26-09-2026"
-  },
-  "firmware": {
-    "version": "1.2.32",
-    "protocolVersion": "1.2.31",
-    "fileName": "Firmware_IUBP-v1.2.32.icfw",
-    "url": "files/Firmware_IUBP-v1.2.32.icfw",
-    "sha256": "7dbdb641214dc3ce747219c49e7ed3111aa4c7801376610ec7c9cd014c582909",
-    "hardwareId": "0x0001E690",
-    "releaseNotes": "Cập nhật ngày: 26-09-2026"
-  }
+  "applications": [
+    {
+      "version": "2.2.118",
+      "fileName": "iCanPro-v2.2.118-setup.exe",
+      "url": "files/iCanPro-v2.2.118-setup.exe",
+      "sha256": "6c90eabc07bf8577d1a66c1682846eb83cdf0ef14f1d637224d1995c0e6ed3db",
+      "releaseNotes": "Sửa lỗi cập nhật firmware online"
+    },
+    {
+      "version": "2.2.117",
+      "fileName": "iCanPro-v2.2.117-Setup.exe",
+      "url": "files/iCanPro-v2.2.117-Setup.exe",
+      "sha256": "92736340932ba064187ef54bc44984341829801e13940fd384ce67dd6d8b4056",
+      "releaseNotes": "Phiên bản bắt đầu hỗ trợ cập nhật online"
+    }
+  ],
+  "firmwares": [
+    {
+      "version": "1.2.32",
+      "protocolVersion": "1.2.31",
+      "minimumBootloaderVersion": "1.3.0",
+      "fileName": "Firmware_IUBP-v1.2.32.icfw",
+      "url": "files/Firmware_IUBP-v1.2.32.icfw",
+      "sha256": "7dbdb641214dc3ce747219c49e7ed3111aa4c7801376610ec7c9cd014c582909",
+      "hardwareId": "0x0001E690",
+      "releaseNotes": "Firmware mới"
+    },
+    {
+      "version": "1.2.31",
+      "protocolVersion": "1.2.31",
+      "minimumBootloaderVersion": "1.3.0",
+      "fileName": "Firmware_IUBP-v1.2.31.icfw",
+      "url": "files/Firmware_IUBP-v1.2.31.icfw",
+      "sha256": "c9ba56662fd66a82c8bf3878d2a51e118a0a011eff4d6c9714293603ab7ca95c",
+      "hardwareId": "0x0001E690",
+      "releaseNotes": "Firmware cũ"
+    }
+  ]
 }
