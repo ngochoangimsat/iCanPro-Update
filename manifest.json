@@ -21,8 +21,7 @@
   "firmwares": [
     {
       "version": "1.2.32",
-      "protocolVersion": "1.2.31",
-      "minimumBootloaderVersion": "1.3.0",
+      "protocolVersion": "1.2.31",     
       "fileName": "Firmware_IUBP-v1.2.32.icfw",
       "url": "files/Firmware_IUBP-v1.2.32.icfw",
       "sha256": "7dbdb641214dc3ce747219c49e7ed3111aa4c7801376610ec7c9cd014c582909",
@@ -31,8 +30,7 @@
     },
     {
       "version": "1.2.31",
-      "protocolVersion": "1.2.31",
-      "minimumBootloaderVersion": "1.2.0",
+      "protocolVersion": "1.2.31",     
       "fileName": "Firmware_IUBP-v1.2.31.icfw",
       "url": "files/Firmware_IUBP-v1.2.31.icfw",
       "sha256": "c9ba56662fd66a82c8bf3878d2a51e118a0a011eff4d6c9714293603ab7ca95c",
