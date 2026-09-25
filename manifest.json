@@ -12,8 +12,8 @@
   "firmware": {
     "version": "1.2.32",
     "protocolVersion": "1.2.31",
-    "fileName": "Firmware_IUBP_GD32C103CBT6-v1.2.32.icfw",
-    "url": "files/Firmware_IUBP_GD32C103CBT6-v1.2.32.icfw",
+    "fileName": "Firmware_IUBP-v1.2.32.icfw",
+    "url": "files/Firmware_IUBP-v1.2.32.icfw",
     "sha256": "7dbdb641214dc3ce747219c49e7ed3111aa4c7801376610ec7c9cd014c582909",
     "hardwareId": "0x0001E690",
     "releaseNotes": "Cập nhật ngày: 26-09-2026"
