@@ -4,7 +4,7 @@
   "channel": "stable",
   "applications": [
     {
-      "version": "2.2.118",
+      "version": "2.2.119",
       "fileName": "iCanPro-v2.2.118-setup.exe",
       "url": "files/iCanPro-v2.2.118-setup.exe",
       "sha256": "6c90eabc07bf8577d1a66c1682846eb83cdf0ef14f1d637224d1995c0e6ed3db",
