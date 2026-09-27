@@ -1,41 +1,43 @@
 {
-  "schema": 2,
+  "schema": 3,
   "product": "iCanPro",
   "channel": "stable",
   "applications": [
     {
-      "version": "2.2.120",
-      "fileName": "iCanPro-v2.2.118-setup.exe",
-      "url": "files/iCanPro-v2.2.118-setup.exe",
-      "sha256": "6c90eabc07bf8577d1a66c1682846eb83cdf0ef14f1d637224d1995c0e6ed3db",
-      "releaseNotes": "Sửa lỗi cập nhật firmware online"
-    },
-    {
-      "version": "2.2.117",
-      "fileName": "iCanPro-v2.2.117-Setup.exe",
-      "url": "files/iCanPro-v2.2.117-Setup.exe",
-      "sha256": "92736340932ba064187ef54bc44984341829801e13940fd384ce67dd6d8b4056",
-      "releaseNotes": "Phiên bản bắt đầu hỗ trợ cập nhật online"
+      "version": "2.2.122",
+      "fileName": "iCanPro-v2.2.122-setup.exe",
+      "url": "files/iCanPro-v2.2.122-setup.exe",
+      "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "releaseNotes": "Example only"
     }
   ],
   "firmwares": [
     {
-      "version": "1.2.32",
-      "protocolVersion": "1.2.31",     
-      "fileName": "Firmware_IUBP-v1.2.32.icfw",
-      "url": "files/Firmware_IUBP-v1.2.32.icfw",
-      "sha256": "7dbdb641214dc3ce747219c49e7ed3111aa4c7801376610ec7c9cd014c582909",
-      "hardwareId": "0x0001E690",
-      "releaseNotes": "Firmware mới"
+      "modelId": "H0836F",
+      "version": "1.4.0",
+      "protocolVersion": "1.4.0",
+      "fileName": "Firmware_H0836F-v1.4.0.icfw",
+      "url": "files/Firmware_H0836F-v1.4.0.icfw",
+      "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "releaseNotes": "Example"
     },
     {
-      "version": "1.2.31",
-      "protocolVersion": "1.2.31",     
-      "fileName": "Firmware_IUBP-v1.2.31.icfw",
-      "url": "files/Firmware_IUBP-v1.2.31.icfw",
-      "sha256": "c9ba56662fd66a82c8bf3878d2a51e118a0a011eff4d6c9714293603ab7ca95c",
-      "hardwareId": "0x0001E690",
-      "releaseNotes": "Firmware cũ"
+      "modelId": "H0C5C0",
+      "version": "1.4.0",
+      "protocolVersion": "1.4.0",
+      "fileName": "Firmware_H0C5C0-v1.4.0.icfw",
+      "url": "files/Firmware_H0C5C0-v1.4.0.icfw",
+      "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "releaseNotes": "Example"
+    },
+    {
+      "modelId": "H1E690",
+      "version": "1.4.0",
+      "protocolVersion": "1.4.0",
+      "fileName": "Firmware_H1E690-v1.4.0.icfw",
+      "url": "files/Firmware_H1E690-v1.4.0.icfw",
+      "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "releaseNotes": "Example"
     }
   ]
 }
