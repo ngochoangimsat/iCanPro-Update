@@ -4,9 +4,9 @@
   "channel": "stable",
   "applications": [
     {
-      "version": "2.2.122",
-      "fileName": "iCanPro-v2.2.122-setup.exe",
-      "url": "files/iCanPro-v2.2.122-setup.exe",
+      "version": "2.2.123",
+      "fileName": "iCanPro-v2.2.123-setup.exe",
+      "url": "files/iCanPro-v2.2.123-setup.exe",
       "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
       "releaseNotes": "Example only"
     }
@@ -32,19 +32,19 @@
     },
     {
       "modelId": "H1E690",
-      "version": "1.4.0",
+      "version": "1.4.6",
       "protocolVersion": "1.4.0",
-      "fileName": "Firmware_H1E690-v1.4.0.icfw",
-      "url": "files/Firmware_H1E690-v1.4.0.icfw",
+      "fileName": "Firmware_H1E690-v1.4.6.icfw",
+      "url": "files/Firmware_H1E690-v1.4.6.icfw",
       "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
       "releaseNotes": "Example"
     },
     {
       "modelId": "H1E690",
-      "version": "1.4.1",
+      "version": "1.4.5",
       "protocolVersion": "1.4.0",
-      "fileName": "Firmware_H1E690-v1.4.1.icfw",
-      "url": "files/Firmware_H1E690-v1.4.1.icfw",
+      "fileName": "Firmware_H1E690-v1.4.5.icfw",
+      "url": "files/Firmware_H1E690-v1.4.5.icfw",
       "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
       "releaseNotes": "Example"
     }
