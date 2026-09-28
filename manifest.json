@@ -8,14 +8,21 @@
       "fileName": "iCanPro-v2.2.123-setup.exe",
       "url": "files/iCanPro-v2.2.123-setup.exe",
       "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
-      "releaseNotes": "Example only"
+      "releaseNotes": "Hỗ trợ đa kênh, bản đầu tiên"
     },   
     {
       "version": "2.2.128",
       "fileName": "iCanPro-v2.2.128-setup.exe",
       "url": "files/iCanPro-v2.2.128-setup.exe",
       "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
-      "releaseNotes": "Example only"
+      "releaseNotes": "Hỗ trợ đa kênh, Sửa lỗi"
+    },   
+    {
+      "version": "2.2.130",
+      "fileName": "iCanPro-v2.2.128-setup.exe",
+      "url": "files/iCanPro-v2.2.128-setup.exe",
+      "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "releaseNotes": "Hỗ trợ đa kênh, Sửa lỗi"
     }
   ],
   "firmwares": [
@@ -53,7 +60,7 @@
       "fileName": "Firmware_H1E690-v1.4.6.icfw",
       "url": "files/Firmware_H1E690-v1.4.6.icfw",
       "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
-      "releaseNotes": "Example"
+      "releaseNotes": "RX1 đọc LIN"
     },
     {
       "modelId": "H1E690",
@@ -62,7 +69,16 @@
       "fileName": "Firmware_H1E690-v1.4.7.icfw",
       "url": "files/Firmware_H1E690-v1.4.7.icfw",
       "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
-      "releaseNotes": "Example"
+      "releaseNotes": "RX1 đọc RS485"
+    },
+    {
+      "modelId": "H1E690",
+      "version": "1.4.8",
+      "protocolVersion": "1.4.0",
+      "fileName": "Firmware_H1E690-v1.4.7.icfw",
+      "url": "files/Firmware_H1E690-v1.4.7.icfw",
+      "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "releaseNotes": "RX1 đọc UART"
     }
   ]
 }
