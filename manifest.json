@@ -69,7 +69,7 @@
       "fileName": "Firmware_iCanPro_H1E690-v1.4.8.icfw",
       "url": "files/Firmware_iCanPro_H1E690-v1.4.8.icfw",
       "sha256": "d3869168825ed3d82e8854b4dfda3e16c71cf73b04c42593bc538207465b66c0",
-      "releaseNotes": "RX1 đọc UART"
+      "releaseNotes": "CAN channel 0 + CAN channel 1 + LIN channel 2 (TX1, RX1) + RS485 channel 3 (TX2, RX2)"
     }
   ]
 }
