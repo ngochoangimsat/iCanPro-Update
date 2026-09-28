@@ -39,6 +39,15 @@
     },
     {
       "modelId": "H1E690",
+      "version": "1.4.5",
+      "protocolVersion": "1.4.0",
+      "fileName": "Firmware_H1E690-v1.4.5.icfw",
+      "url": "files/Firmware_H1E690-v1.4.5.icfw",
+      "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "releaseNotes": "Example"
+    }
+    {
+      "modelId": "H1E690",
       "version": "1.4.6",
       "protocolVersion": "1.4.0",
       "fileName": "Firmware_H1E690-v1.4.6.icfw",
@@ -52,15 +61,6 @@
       "protocolVersion": "1.4.0",
       "fileName": "Firmware_H1E690-v1.4.7.icfw",
       "url": "files/Firmware_H1E690-v1.4.7.icfw",
-      "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
-      "releaseNotes": "Example"
-    },
-    {
-      "modelId": "H1E690",
-      "version": "1.4.5",
-      "protocolVersion": "1.4.0",
-      "fileName": "Firmware_H1E690-v1.4.5.icfw",
-      "url": "files/Firmware_H1E690-v1.4.5.icfw",
       "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
       "releaseNotes": "Example"
     }
