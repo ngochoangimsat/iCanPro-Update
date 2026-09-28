@@ -38,6 +38,15 @@
       "url": "files/Firmware_H1E690-v1.4.0.icfw",
       "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
       "releaseNotes": "Example"
+    },
+    {
+      "modelId": "H1E690",
+      "version": "1.4.1",
+      "protocolVersion": "1.4.0",
+      "fileName": "Firmware_H1E690-v1.4.1.icfw",
+      "url": "files/Firmware_H1E690-v1.4.1.icfw",
+      "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "releaseNotes": "Example"
     }
   ]
 }
