@@ -59,8 +59,8 @@
       "protocolVersion": "1.4.0",
       "fileName": "Firmware_H1E690-v1.4.6.icfw",
       "url": "files/Firmware_H1E690-v1.4.6.icfw",
-      "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
-      "releaseNotes": "RX1 đọc LIN"
+      "sha256": "f4f4375328fab10bccb3c60e2c1ddaa1efcd9c928833efa1809691d42d8e3730",
+      "releaseNotes": "CAN channel 0 + CAN channel 1 + LIN channel 2 (TX1, RX1) + RS485 channel 3 (TX2, RX2) + UART channel 4 (TX0, RX0)"
     },
     {
       "modelId": "H1E690",
@@ -68,8 +68,8 @@
       "protocolVersion": "1.4.0",
       "fileName": "Firmware_H1E690-v1.4.7.icfw",
       "url": "files/Firmware_H1E690-v1.4.7.icfw",
-      "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
-      "releaseNotes": "RX1 đọc RS485"
+      "sha256": "9c8b88a4b0073f9710e795d93d295cd1fcdd6882a4edf5ee54233ec42b2237af",
+      "releaseNotes": "CAN channel 0 + CAN channel 1 + UART channel 0 (TX1, RX1) + UART channel 1 (TX2, RX2)"
     },
     {
       "modelId": "H1E690",
@@ -77,7 +77,7 @@
       "protocolVersion": "1.4.0",
       "fileName": "Firmware_H1E690-v1.4.7.icfw",
       "url": "files/Firmware_H1E690-v1.4.7.icfw",
-      "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "sha256": "d3869168825ed3d82e8854b4dfda3e16c71cf73b04c42593bc538207465b66c0",
       "releaseNotes": "RX1 đọc UART"
     }
   ]
