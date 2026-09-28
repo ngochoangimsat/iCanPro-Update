@@ -9,6 +9,13 @@
       "url": "files/iCanPro-v2.2.123-setup.exe",
       "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
       "releaseNotes": "Example only"
+    },   
+    {
+      "version": "2.2.128",
+      "fileName": "iCanPro-v2.2.128-setup.exe",
+      "url": "files/iCanPro-v2.2.128-setup.exe",
+      "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "releaseNotes": "Example only"
     }
   ],
   "firmwares": [
