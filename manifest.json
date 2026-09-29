@@ -41,7 +41,7 @@
       "protocolVersion": "1.4.0",
       "fileName": "H0836F_2CAN_2LIN-v1.4.9.icfw",
       "url": "files/H0836F_2CAN_2LIN-v1.4.9.icfw",
-      "sha256": "d555871b5bebda949978453bff70450de38006e906814db67a8fe4c5363a38dc",
+      "sha256": "313eeb8c511cb9b5372378948bc31e368be93e45b9311414eade56fd94dbf046",
       "releaseNotes": "H0836F 2CAN + LIN(Tx1, Rx1) + LIN(Tx2, Rx2)"
     },
     {
@@ -50,7 +50,7 @@
       "protocolVersion": "1.4.0",
       "fileName": "H0836F_2CAN_LIN_RS485-v1.4.8.icfw",
       "url": "files/H0836F_2CAN_LIN_RS485-v1.4.8.icfw",
-      "sha256": "6f2a53257d63c94584bf98cdcec33ea34d3e8f16be8cfec7522934155302607e",
+      "sha256": "c5caf020fc88c34e17a953095d18bf8ffcd4aac59c0f4ed714913234d5f341a5",
       "releaseNotes": "H0836F 2CAN + 1LIN(Tx1, Rx1) + 1RS485(Tx2, Rx2)"
     },
 	{
