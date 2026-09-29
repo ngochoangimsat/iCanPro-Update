@@ -28,22 +28,49 @@
   "firmwares": [
     {
       "modelId": "H0836F",
-      "version": "1.4.0",
+      "version": "1.4.10",
       "protocolVersion": "1.4.0",
-      "fileName": "Firmware_H0836F-v1.4.0.icfw",
-      "url": "files/Firmware_H0836F-v1.4.0.icfw",
-      "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
-      "releaseNotes": "Example"
+      "fileName": "H0836F_2CAN_2RS485-v1.4.10.icfw",
+      "url": "files/H0836F_2CAN_2RS485-v1.4.10.icfw",
+      "sha256": "b4c6b2743fb00d64615d2e3e1c9e5e9c3191dd8591bb468ddd4d59d80c458423",
+      "releaseNotes": "H0836F 2CAN + 2 RS485"
+    },
+	{
+      "modelId": "H0836F",
+      "version": "1.4.9",
+      "protocolVersion": "1.4.0",
+      "fileName": "H0836F_2CAN_2LIN-v1.4.9.icfw",
+      "url": "files/H0836F_2CAN_2LIN-v1.4.9.icfw",
+      "sha256": "d555871b5bebda949978453bff70450de38006e906814db67a8fe4c5363a38dc",
+      "releaseNotes": "H0836F 2CAN + LIN(Tx1, Rx1) + LIN(Tx2, Rx2)"
+    },
+    {
+      "modelId": "H0836F",
+      "version": "1.4.8",
+      "protocolVersion": "1.4.0",
+      "fileName": "H0836F_2CAN_LIN_RS485-v1.4.8.icfw",
+      "url": "files/H0836F_2CAN_LIN_RS485-v1.4.8.icfw",
+      "sha256": "6f2a53257d63c94584bf98cdcec33ea34d3e8f16be8cfec7522934155302607e",
+      "releaseNotes": "H0836F 2CAN + 1LIN(Tx1, Rx1) + 1RS485(Tx2, Rx2)"
+    },
+	{
+      "modelId": "H0836F",
+      "version": "1.4.7",
+      "protocolVersion": "1.4.0",
+      "fileName": "H0836F_2CAN_2UART-v1.4.7.icfw",
+      "url": "files/H0836F_2CAN_2UART-v1.4.7.icfw",
+      "sha256": "054cb785692bac2bdc8160a611230f919ffdd654363a6d6ca94ce565d711c2bc",
+      "releaseNotes": "H0836F 2CAN + 2 UART"
     },
     {
       "modelId": "H0C5C0",
       "version": "1.4.0",
       "protocolVersion": "1.4.0",
-      "fileName": "Firmware_H0C5C0-v1.4.0.icfw",
-      "url": "files/Firmware_H0C5C0-v1.4.0.icfw",
+      "fileName": "H0836F_2CAN_LIN_RS485-v1.4.8.icfw",
+      "url": "files/H0836F_2CAN_LIN_RS485-v1.4.8.icfw",
       "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
-      "releaseNotes": "Example"
-    },
+      "releaseNotes": "H0836F 2CAN + 1LIN(Tx1, Rx1) + 1RS485(Tx2, Rx2)"
+    },	
     {
       "modelId": "H1E690",
       "version": "1.4.6",
