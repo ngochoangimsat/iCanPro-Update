@@ -16,6 +16,13 @@
       "url": "files/iCanPro-v2.2.131-Setup.exe",
       "sha256": "986430a442a8fd218a065942fbd3e84ae26a2ce424e34c40342511d06a829e88",
       "releaseNotes": "Ngày 2026-10-04: Nâng cấp chức năng phân tích dữ liệu"
+    },  
+  {
+      "version": "2.2.132",
+      "fileName": "iCanPro-v2.2.132-Setup.exe",
+      "url": "files/iCanPro-v2.2.132-Setup.exe",
+      "sha256": "ab1215c98738ec3345b452a6a276d62c164163918931367e94793c3db29d76db",
+      "releaseNotes": "Ngày 2026-10-06: Nâng cấp chức năng phân tích dữ liệu và mô phỏng"
     }
   ],
   "firmwares": [
