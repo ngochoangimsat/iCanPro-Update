@@ -100,11 +100,11 @@
     },
     {
       "modelId": "H1E690",
-      "version": "1.4.9",
+      "version": "1.4.10",
       "protocolVersion": "1.4.0",
-      "fileName": "H1E690_2CAN_2LIN-1RS485-v1.4.9.icfw",
-      "url": "files/H1E690_2CAN_2LIN-1RS485-v1.4.9.icfw",
-      "sha256": "41cd00f97ee90983cdcb261281762aa838f0f4e460304c719b2a5433f457cb08",
+      "fileName": "FW_H1E690_2CAN_2LIN_1RS485_v1.4.10.icfw",
+      "url": "files/FW_H1E690_2CAN_2LIN_1RS485_v1.4.10.icfw",
+      "sha256": "54991b6eb58fa9e99b6e8071e544a1e77f20a23080fda4e0034e7c4c011664c2",
       "releaseNotes": "CAN channel 0 + CAN channel 1 + LIN channel 2 (TX1, RX1) + LIN channel 3 (TX0, RX0) + RS485 channel 3 (TX2, RX2)"
     }
   ]
