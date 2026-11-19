@@ -104,7 +104,7 @@
       "protocolVersion": "1.4.0",
       "fileName": "H1E690_2CAN_2LIN-1RS485-v1.4.9.icfw",
       "url": "files/H1E690_2CAN_2LIN-1RS485-v1.4.9.icfw",
-      "sha256": "2bc5d66701b99e720796734aca8b5a395e9c5da25cf2812d0411f12451b630bc",
+      "sha256": "41cd00f97ee90983cdcb261281762aa838f0f4e460304c719b2a5433f457cb08",
       "releaseNotes": "CAN channel 0 + CAN channel 1 + LIN channel 2 (TX1, RX1) + LIN channel 3 (TX0, RX0) + RS485 channel 3 (TX2, RX2)"
     }
   ]
